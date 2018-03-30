@@ -1,3 +1,7 @@
+## NOTE: 
+
+Fabcar modified from original repo - need to install npm in folder and node enrollAdmin.js
+
 ## Hyperledger Fabric Samples
 
 Please visit the [installation instructions](http://hyperledger-fabric.readthedocs.io/en/latest/samples.html).
